@@ -1,0 +1,23 @@
+# Node.js dependencies
+/node_modules
+
+# Build artifacts
+/build
+/dist
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+.DS_Store
+
+# Log files
+*.log
